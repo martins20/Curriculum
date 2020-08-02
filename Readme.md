@@ -3,5 +3,5 @@
     <img src="./assets/Profile_and_skills.png" alt='photo' />
     <img src="./assets/Work_experience.png" />
     <img src="./assets/Education.png" />
-    <img src="./assets/Language.png" /> 
+    <img src="./assets/Language.png" />
 </div>
